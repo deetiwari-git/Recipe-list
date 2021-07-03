@@ -1,0 +1,48 @@
+.nav-1 {
+  /* background-color: rgba(38, 0, 255, 0.596); */
+  /* box-shadow: inset 1px 1px 13px red ; */
+  border: 3px solid black;
+  border-radius: 0px;
+  background: rgba(0, 0, 0, 0.137);
+}
+.a-head {
+  text-shadow: 1px 1px black;
+  color: crimson;
+  font-size: 24px;
+  /* font-weight: bold; */
+  /* margin: 2px; */
+  box-shadow: inset -1px 1px 3px black;
+}
+.collapse {
+  display: block;
+}
+/* .clickDirective {
+  background-color: pink;
+  color: green;
+  font-size: 20px;
+  font-weight: bolder;
+} */
+.navbar-collapse {
+  display: block;
+}
+.ul-head-1 {
+  display: block;
+  max-width: 50%;
+  margin: 0px auto;
+  border: 2px solid black;
+}
+.navbar li .a-2 {
+  /* font-weight: bolder; */
+  font-size: 18px;
+  /* font-style: italic; */
+  color: brown;
+  /* border-bottom: 1px solid black; */
+  text-shadow: 0px 1px brown;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.a-button {
+  font-weight: bolder;
+  font-size: 20px;
+  color: black;
+}
